@@ -1,0 +1,6 @@
+public class DialogTest { 
+ public static void main(String[] args) { 
+ String text = javax.swing.JOptionPane.showInputDialog(null); 
+ System.out.println(text); 
+ } 
+}
