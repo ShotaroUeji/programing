@@ -1,0 +1,14 @@
+問2-5
+Distance between P and o is 31.240998703626616
+Distace　between Q and o is 19.4164878389476
+
+
+問6
+(20,24)
+(4,19)
+
+問7
+20+24i
+distance is 31.240998703626616
+4+19i
+distance is 19.4164878389476
